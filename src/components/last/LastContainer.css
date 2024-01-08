@@ -1,0 +1,26 @@
+ul{
+    list-style: none;
+    margin-right: 10px;
+}
+
+.footer{
+    margin-top: 30px;
+    color: #737373;
+    padding-left: 30px;
+}
+
+.foot-start-txt{
+    margin-top: 70px;
+}
+
+.footer h4{
+    margin-top: 50px;
+}
+
+.foot-row{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 700px;
+    margin-bottom: 30px;
+}

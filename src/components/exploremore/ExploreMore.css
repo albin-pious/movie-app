@@ -1,0 +1,27 @@
+.exp-container{
+    color: white;
+    text-align: center;
+}
+
+.exp-head{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    font-size: 50px;
+}
+
+.exp-text{
+    margin-top: 20px;
+    line-height: 50px;
+    font-size: 30px;
+}
+
+.exp-container button{
+    background-color: red;
+    color: white;
+    margin-top: 20px;
+    width: 150px;
+    height: 60px;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+}
